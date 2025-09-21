@@ -1,1 +1,0 @@
-cd src && php -S localhost:7777
