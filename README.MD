@@ -1,0 +1,1 @@
+Site setup ```http://irtech.global/wp-admin/network/sites.php```
